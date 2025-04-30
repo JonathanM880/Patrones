@@ -13,3 +13,4 @@ plugins {
 rootProject.name = "PatronesF"
 include("lib")
 include("AbstractFactory")
+include("Prototype")
